@@ -1,0 +1,6 @@
+/py_env
+/logs
+**/__pycache__
+standalone_admin_password.txt
+airflow.db
+airflow.cfg
